@@ -1,2 +1,13 @@
 data/
 Models/
+Photos/
+logs/
+src/model1.data-00000-of-00001
+src/model1.index
+src/model2.data-00000-of-00001
+src/model2.index
+src/model3.data-00000-of-00001
+src/model3.index
+src/model4.data-00000-of-00001
+src/model4.index
+src/checkpoint
