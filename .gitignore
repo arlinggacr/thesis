@@ -12,3 +12,5 @@ src/model4.data-00000-of-00001
 src/model4.index
 src/checkpoint
 .DS_Store
+src/dataset
+tfrecords/
