@@ -13,4 +13,6 @@ src/model4.index
 src/checkpoint
 .DS_Store
 src/dataset
+src/dataset_v2
 tfrecords/
+src/HAM_327.csv
