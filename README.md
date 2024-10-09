@@ -1,2 +1,1 @@
-# skripsi
-Klasifikasi Kanker Kulit dengan Deep Learning
+Classification Skin Cancer with Deep Learning
